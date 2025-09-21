@@ -11,31 +11,31 @@ This project provides a FastAPI-based API for predicting outcomes using a pre-tr
 
 2. Install the required packages:
 
-pip install -r ./requirements.txt
+- pip install -r ./requirements.txt
 
 ## Execution
 
 1. Run the training script:
 
-python train.py
+- python train.py
 
 2. Start the FastAPI server:
 
-uvicorn app:app --reload
+- uvicorn app:app --reload
 
-Server will run at: http://127.0.0.1:8000
+- Server will run at: http://127.0.0.1:8000
 
 ## Testing the API
 
 1. Open the interactive API docs:
 
-http://127.0.0.1:8000/docs
+- http://127.0.0.1:8000/docs
 
 2. Find the Predict API endpoint and click "Try it Out".
 
 3. Paste the following JSON example into the request body:
 
-{
+- {
   "mean radius": 12.47,
   "mean texture": 18.6,
   "mean perimeter": 81.09,
@@ -70,8 +70,8 @@ http://127.0.0.1:8000/docs
 
 4. Click "Execute" to get the prediction.
 
-Expected Outcome:
+- Expected Outcome:
 
-{
+- {
   "prediction": "Person is Diabetic"
 }
