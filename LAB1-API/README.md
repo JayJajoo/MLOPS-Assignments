@@ -6,8 +6,8 @@ This project provides a FastAPI-based API for predicting outcomes using a pre-tr
 
 1. Clone the repository:
 
-git clone https://github.com/JayJajoo/MLOPS-Assignments.git
-cd .\LAB1-API\
+- git clone https://github.com/JayJajoo/MLOPS-Assignments.git
+- cd .\LAB1-API\
 
 2. Install the required packages:
 
