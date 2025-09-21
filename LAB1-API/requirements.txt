@@ -1,0 +1,11 @@
+ipykernel
+fastapi
+uvicorn
+scikit-learn
+pandas
+matplotlib
+numpy
+xgboost
+pickle
+
+#python -m ipykernel install --user --name=lab1env --display-name "Python (lab1env)"  
