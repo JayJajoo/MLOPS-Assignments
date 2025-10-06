@@ -26,19 +26,7 @@ It trains a simple ML model, evaluates it, and then sends an email notification 
 ------------------------------------------------------------
 📁 Project Structure
 ------------------------------------------------------------
-LAB2-Airflow/
-├── config/                      # Airflow or project configs (if any)
-├── dags/
-│   ├── ml_pipeline_dag.py       # Main Airflow DAG
-│   └── model_dev/               # All Python files for ML pipeline
-│       ├── train.py             # Training, evaluation, email functions
-│       ├── __init__.py
-│       └── models/              # (Optional) store trained models here
-├── logs/                        # Airflow logs
-├── plugins/                     # Airflow custom plugins (if any)
-├── .gitignore
-├── docker-compose.yaml          # Airflow + Docker setup
-└── README.md
+![alt text](image.png)
 
 ------------------------------------------------------------
 ⚡ Quick Start
