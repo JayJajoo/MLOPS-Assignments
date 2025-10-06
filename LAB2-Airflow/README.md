@@ -1,8 +1,3 @@
-🚀 Airflow ML Pipeline
-
-This project orchestrates a complete Machine Learning training workflow using Apache Airflow inside Docker.  
-It trains a simple ML model, evaluates it, and then sends an email notification with the training report — all fully automated via scheduled Airflow DAGs.
-
 ------------------------------------------------------------
 🧠 Features
 ------------------------------------------------------------
