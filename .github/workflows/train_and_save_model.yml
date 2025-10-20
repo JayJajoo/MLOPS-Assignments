@@ -7,7 +7,7 @@ on:
 
 defaults:
   run:
-    working-directory: lab3-GithubLabs
+    working-directory: LAB-GithubLabs
 
 jobs:
   train_and_save:
