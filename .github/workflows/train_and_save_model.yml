@@ -5,6 +5,10 @@ on:
     # - cron: '0 0 * * *' # Run every day at midnight
   workflow_dispatch: # Run manually
 
+defaults:
+  run:
+    working-directory: lab3-GithubLabs
+
 jobs:
   train_and_save:
     runs-on: ubuntu-latest
