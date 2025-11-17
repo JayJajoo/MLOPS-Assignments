@@ -80,4 +80,10 @@ python wine_feature_pipeline.py
 
 ![1763398731020](image/README/1763398731020.png)
 
+## Output
+
+![1763398939498](image/README/1763398939498.png)
+
+![1763398953885](image/README/1763398953885.png)
+
 ---
