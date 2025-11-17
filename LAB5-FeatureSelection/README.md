@@ -76,12 +76,8 @@ python wine_feature_pipeline.py
 
 ## **Example Screenshot**
 
-```
 ![1763398710094](image/README/1763398710094.png)
-```
 
-```
 ![1763398731020](image/README/1763398731020.png)
-```
 
 ---
